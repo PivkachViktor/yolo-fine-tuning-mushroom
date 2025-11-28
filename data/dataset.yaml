@@ -1,0 +1,7 @@
+path: C:\Users\MSI\Desktop\yolo-fine-tuning-mushroom\data
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 9
+names: ['Agaricus', 'Boletus', 'Cortinarius', 'Entoloma', 'Hygrocybe', 'Lactarius', 'Russula', 'Suillus', 'amanita']
